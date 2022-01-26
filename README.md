@@ -44,6 +44,9 @@ To run the model or to train it, the data has to be structured in a specific way
 └── ...  
 </pre>
 
+## Model used
+
+![Net](https://user-images.githubusercontent.com/26313021/151218916-fc29920a-4dd3-43a0-9a9c-f678f34cfc08.png)
 
 ## Run the code 
 In order to run the best model that was implemented the following command has to be sent in a terminal: i
