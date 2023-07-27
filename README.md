@@ -1,6 +1,6 @@
 # ML_RoadSegmentation
 
-For the EPFL course Machine Learning CS-433 a research project on semantic segmentation of aerial images. The goal is to be able to separate two classes, Background and Road for satellite images.  
+Research project on semantic segmentation of aerial images. The goal is to be able to separate two classes, Background and Road for satellite images.  
 
 The structure of the image dataset and their groundtruth can be seen in the following image:
 
